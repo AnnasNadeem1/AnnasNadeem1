@@ -7,7 +7,7 @@ I love building, learning, and sharing knowledge with others.
 - 🧠 Always exploring new tech
 - 🛠️ Working on personal projects (Cloud apps, Blazor sites)
 - 📫 Reach me at: [annas.nadeem01@yahoo.com](mailto:annas.nadeem01@yahoo.com)
-- 🐱 Fun fact: I run a crochet business called **Strings and Stories**
+-
 
 ---
 
