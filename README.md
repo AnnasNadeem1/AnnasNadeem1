@@ -30,6 +30,11 @@ Feel free to reach out — always happy to connect and help where I can.
 
 ---
 
+## GitHub Contribution Trophies
+![](https://github-profile-trophy.vercel.app/?username=AnnasNadeem1&theme=radical&no-frame=true&row=1&column=6)
+
+---
+
 [![](https://visitcount.itsvg.in/api?id=AnnasNadeem1&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
