@@ -14,7 +14,6 @@ Currently working with AWS, Python, and various data tools — always up for exc
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnnasNadeem1&theme=2077)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnasNadeem1&layout=compact&theme=tokyonight&hide_border=false&card_width=300)
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=AnnasNadeem1&theme=tokyonight&hide_border=false)
 
 ---
 
