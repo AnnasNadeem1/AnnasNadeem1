@@ -2,7 +2,7 @@
 
 Hi! I’m Annas, a curious learner diving deep into **Cloud** ☁️ and **Data Analytics** 📊.  
 I enjoy building full-stack apps, solving problems, and sharing what I learn.  
-Currently working with AWS, Python, and various data tools — always up for exciting tech!
+Currently working with AWS, Python, and various data tools 
 
 - 📚 CS student @ Air University
 - 💻 Projects in cloud, web, and C++
@@ -14,12 +14,6 @@ Currently working with AWS, Python, and various data tools — always up for exc
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnnasNadeem1&theme=2077)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnasNadeem1&layout=compact&theme=tokyonight&hide_border=false&card_width=300)
-
----
-
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=AnnasNadeem1&theme=darkhub&no-frame=true&row=1&column=6)
 
 ---
 
