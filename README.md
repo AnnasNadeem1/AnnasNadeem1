@@ -13,7 +13,6 @@ Currently working with AWS, Python, and various data tools
 ## 📊 GitHub Summary
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnnasNadeem1&theme=2077)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnasNadeem1&layout=compact&theme=tokyonight&hide_border=false&card_width=300)
 
 ---
 
