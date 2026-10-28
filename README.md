@@ -1,6 +1,6 @@
 #  About Me
 
-Hi! I’m Annas, a curious learner diving deep into **Cloud** ☁️ and **Data Analytics** 📊.  
+Hi! I’m Annas, a curious learner diving deep into **AI Engineering** ☁️ and **Data Analytics** 📊.  
 I enjoy building dashboards, solving problems, and sharing what I learn.  
 Currently working with AWS, Python, and various data tools 
 
